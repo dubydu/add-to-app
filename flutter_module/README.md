@@ -8,8 +8,8 @@
 #### Archive
 ```
 flutter build ios-framework --output=archive/ --cocoapods [--no-profile] [--no-debug]
-# Or
-flutter build aar --output PATH_TO_NATIVE_ANDOIRD_PROJECT/joblogic-mobile-enterprise-android/module/android
+## AND ##
+flutter build aar --output PATH_TO_NATIVE_ANDOIRD_PROJECT/your_project_name/module/android
 ```
 
 #### Re-create Module
