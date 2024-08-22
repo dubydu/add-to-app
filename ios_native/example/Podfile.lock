@@ -1,0 +1,21 @@
+PODS:
+  - Flutter (3.24.100)
+  - Module (1.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `./Flutter/Flutter.podspec`)
+  - Module (from `./Flutter/Module.podspec`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :podspec: "./Flutter/Flutter.podspec"
+  Module:
+    :podspec: "./Flutter/Module.podspec"
+
+SPEC CHECKSUMS:
+  Flutter: 8ee901f4739394d3c7e3e6e4a2a06d1ea2ec6bb3
+  Module: e2d8e045499f19dd9b81134501b9b2cd3d613d41
+
+PODFILE CHECKSUM: face5f2643eec92a8647b3da086c654cd7fc9dc8
+
+COCOAPODS: 1.15.2
