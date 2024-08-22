@@ -57,7 +57,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     /// - Parameter window: UIWindow
     func transitionRootViewController(in window: UIWindow?) {
         let viewController = HomeViewController.instantiateInitialFromStoryboard()
-        
         window?.rootViewController = UINavigationController(rootViewController: viewController)
         window?.makeKeyAndVisible()
     }
